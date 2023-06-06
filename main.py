@@ -10,6 +10,7 @@ def print_hi(name):
     ofer = 4
     shahr = 5
     v = 23
+    x = 2
 
 
 # Press the green button in the gutter to run the script.
