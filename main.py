@@ -14,6 +14,8 @@ def print_hi(name):
     shahr = 5
     v = 23
     x = 2
+    k = 78
+    ofer = ['d','t','d']
 
 
 # Press the green button in the gutter to run the script.
